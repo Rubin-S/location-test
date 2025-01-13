@@ -1,0 +1,38 @@
+# Node.js dependencies
+/node_modules/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Build output
+/dist/
+/build/
+
+# Mac OS generated files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Frontend build artifacts (if any)
+/frontend/dist/
+/frontend/build/
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# npm package lock (optional, include if you want to ignore)
+package-lock.json
+yarn.lock
+
+# Operating system files
+*.swp
+*.bak
+
+# If using temporary files for local development
+*.tmp
+*.swp

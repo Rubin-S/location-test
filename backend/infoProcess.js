@@ -1,4 +1,4 @@
-const { clients, updateClientLocation } = require("./client");
+const { clients, updateClientLocation } = require("./clients");
 const geolib = require("geolib");
 const serviceProvider = require("./serviceProvider");
 
